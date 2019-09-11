@@ -1,7 +1,7 @@
 {
-  "name": "editable-table",
+  "name": "editable-table-1",
   "version": "0.1.0",
-  "homepage": "https://noah-potter.github.io/editable-table",
+  "homepage": "https://noah-potter.github.io/editable-table-1",
   "dependencies": {
     "@material-ui/core": "^4.4.1",
     "@types/jest": "24.0.18",
